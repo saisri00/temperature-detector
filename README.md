@@ -1,7 +1,8 @@
 Simple Temperature Detector Circuit
 
 A very simple temperature indicator circuit can be built using the circuit shown in the diagram.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/889c7140-914d-4410-aab0-9587dabf9cd3)
+
 
 
 A generally purpose small signal transistor is used here as the sensor and another active device in the form of a1N4148 diode is used for providing a reference level to the sensing operation.
